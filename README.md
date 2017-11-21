@@ -53,11 +53,11 @@ At the bottom of the interface you find the undo timeline and a button to switch
 
 In most cases you need a page for each view. You can navigate to those pages by adding hotspots that can be clicked during Preview. When adding the action Go To Page, you can add a page transition as well.
 
-![hotspots_transitions](/Users/kojo/OneDrive - Jonkoping University/JTH/Development for mobile, wearable- and smart devices/Atomic/images/hotspots_transitions.gif)
+![hotspots_transitions](images/hotspots_transitions.gif)
 
 ### Automatic tweening
 
 If the same shape is on two pages. The property changes will be animated automatically.
 
-![tweening](/Users/kojo/OneDrive - Jonkoping University/JTH/Development for mobile, wearable- and smart devices/Atomic/images/tweening.gif)
+![tweening](images/tweening.gif)
 
