@@ -2,9 +2,11 @@
 
 1. Create an account and login at [atomic.io](atomic.io) 
 2. Start a new project and name it
+
 ![new_project](images/new_project.png)
 
 3. Create a new Prototype
+
 ![new_proto](images/new_proto.png)
 
 ##Getting around in the interface
