@@ -9,9 +9,9 @@
 
 ![new_proto](images/new_proto.png)
 
-##Getting around in the interface
+## Getting around in the interface
 
-###Page properties
+### Page properties
 Set the dimensions of your page in the properties panel or select a preset mobile, tablet or desktop size from the dropdown menu. Just make sure nothing on your canvas is selected to see these options. 
 
 ![setting size](https://s3.amazonaws.com/uploads.intercomcdn.com/i/o/13213526/092667ca12a4519cc905a608/Replace_image_Copy_2.jpg)
@@ -26,12 +26,12 @@ Importing images is as simple as drag and drop
 
 ![drop image in Atomic](https://s3.amazonaws.com/uploads.intercomcdn.com/i/o/13213566/b3e6a277c6d5e8ce7ed4f2cb/drag-n-drop3.gif)
 
-###Pages/Layers panel
+### Pages/Layers panel
 The elements on the page are added to individual layers. Layers can be locked, hidden and rearranged.  Switch to the Page panel to get an overview of your pages.
 
 ![pages_layers](images/pages_layers.gif)
 
-###Properties panel
+### Properties panel
 The property panel on the right side shows different settings based on your current selection. 
 
 ![properties](images/properties.gif)
@@ -40,7 +40,7 @@ To add icons, select the text tool, choose an icon font, then click on the optio
 
 ![icons](images/icons.png)
 
-###Preview
+### Preview
 At the bottom of the interface you find the undo timeline and a button to switch viewing mode between editing and previewing. 
 
 ![preview](images/preview.png)
