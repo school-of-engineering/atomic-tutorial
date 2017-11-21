@@ -1,5 +1,10 @@
 # Prototyping with Atomic 
 
+[TOC]
+
+------
+
+
 1. Create an account and login at [atomic.io](atomic.io) 
 2. Start a new project and name it
 
